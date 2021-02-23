@@ -5,7 +5,8 @@ html {
 
 body {
 	font-weight: 300;
-	color: #333;
+	color: #00FF01;
+	font-family: courier, courier new, serif;
 }
 
 h1 {
