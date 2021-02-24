@@ -1,0 +1,22 @@
+html {
+	margin: 20px;
+	background-color: #000000;
+}
+
+body {
+	font-weight: 300;
+	color: #00FF01;
+	
+}
+
+h1 {
+	font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+}
+
+a {
+	color: #FA0001;
+}
